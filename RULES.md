@@ -7,10 +7,10 @@
 
 ## 1. Hình thức & nộp bài
 
-- **Cá nhân:** mỗi học viên tự fork/clone starter, đổi tên repo theo quy ước Khóa 4, tự nộp **link repo cá nhân** lên LMS / CodeLabs.
+- **Cá nhân:** mỗi học viên tự fork/clone starter, đổi tên repo theo quy ước Khóa 5, tự nộp **link repo cá nhân** lên LMS / CodeLabs.
 - Dù lớp có thảo luận chung, **không** nộp chung một repo cho nhiều MSSV.
-- Tên repo: `K4-L3-DAY11-<HoVaTen>-<MSSV>-Guardrails-HITL-Responsible-AI`  
-  Ví dụ: `K4-L3-DAY11-NguyenVanA-2A2026xxxxx-Guardrails-HITL-Responsible-AI`
+- Tên repo: `K5-<L3A hoặc L3B>-DAY11-<HoVaTen>-<MSSV>-Guardrails-HITL-Responsible-AI`  
+  Ví dụ: `K5-L3B-DAY11-NguyenTienDat-2A202603922-Guardrails-HITL-Responsible-AI`
 
 Chi tiết: [`SUBMISSION.md`](SUBMISSION.md).
 

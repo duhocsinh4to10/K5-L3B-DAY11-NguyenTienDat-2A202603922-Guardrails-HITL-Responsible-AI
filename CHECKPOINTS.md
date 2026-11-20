@@ -102,7 +102,7 @@ Máy chạy được Python lab + có key **OpenRouter** (Blue) và key **OpenAI
 ### Việc cần làm (từng bước)
 
 1. Fork / clone starter về GitHub cá nhân, rồi **đổi tên repo** theo quy ước:  
-   `K4-L3-DAY11-<HoVaTen>-<MSSV>-Guardrails-HITL-Responsible-AI`  
+   `K5-<L3A hoặc L3B>-DAY11-<HoVaTen>-<MSSV>-Guardrails-HITL-Responsible-AI`  
    (chi tiết + ví dụ trong [`SUBMISSION.md`](SUBMISSION.md)).  
 2. Clone repo (đã đổi tên) về máy; mở terminal tại **thư mục gốc** repo.
 3. Tạo & kích hoạt virtualenv, cài dependency.
@@ -673,7 +673,7 @@ Push lên fork GitHub → nộp **link repo** theo `[SUBMISSION.md](SUBMISSION.m
 ## Phụ lục B — Cây cuối cùng (mẫu khi nộp)
 
 ```text
-K4-L3-DAY11-<HoVaTen>-<MSSV>-Guardrails-HITL-Responsible-AI/
+K5-<L3A hoặc L3B>-DAY11-<HoVaTen>-<MSSV>-Guardrails-HITL-Responsible-AI/
 ├── .env                      ← chỉ ở máy bạn, KHÔNG push
 ├── CHECKPOINTS.md
 ├── README.md

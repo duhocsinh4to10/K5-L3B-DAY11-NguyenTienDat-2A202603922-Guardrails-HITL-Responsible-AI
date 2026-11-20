@@ -4,6 +4,8 @@
 > 🎯 **Mục tiêu:** đóng vai **Blue Team** để học cách xây Guardrails phòng thủ, rồi đóng vai **Red Team** để tấn công agent **Red** hoặc **Red Advance**.  
 > ✅ Làm theo **Checkpoint 1 → 5** trong [`CHECKPOINTS.md`](CHECKPOINTS.md) · nộp theo [`SUBMISSION.md`](SUBMISSION.md).
 
+**Học viên:** Nguyen Tien Dat · **MSSV:** 2A202603922 · **Lớp:** L3B
+
 ---
 
 ## Thời lượng
@@ -75,8 +77,8 @@ Bonus lab chỉ tính **một** trong hai: leak **Red** (B1, tối đa +5) hoặ
 
 Codelab lớp: xem `template-codelabs/codelab-day11-k4-l3a.md` (L3A) hoặc bản L3B tương ứng.
 
-**Repo nộp học viên:** `K4-<L3A hoặc L3B>-DAY11-<HoVaTen>-<MSSV>-Guardrails-HITL-Responsible-AI`  
-Ví dụ: `K4-L3A-DAY11-NguyenVanA-2A2026xxxxx-Guardrails-HITL-Responsible-AI`
+**Repo nộp học viên:** `K5-<L3A hoặc L3B>-DAY11-<HoVaTen>-<MSSV>-Guardrails-HITL-Responsible-AI`  
+Ví dụ: `K5-L3A-DAY11-NguyenVanA-2A2026xxxxx-Guardrails-HITL-Responsible-AI`
 
 ---
 

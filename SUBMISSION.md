@@ -30,7 +30,7 @@ Theo **Quy ước chung Khóa 5** — đặt tên repo bài nộp của học vi
 3. Nộp **link repo** (đã đổi tên) lên cổng LMS / CodeLabs đúng hạn.
 
 Ví dụ link nộp:  
-`https://github.com/<user-cua-ban>/K4-L3-DAY11-NguyenVanA-2A2026xxxxx-Guardrails-HITL-Responsible-AI`
+`https://github.com/<user-cua-ban>/K5-L3A-DAY11-NguyenVanA-2A2026xxxxx-Guardrails-HITL-Responsible-AI`
 
 ---
 
@@ -45,7 +45,7 @@ Ví dụ link nộp:
 ## 3. Cấu trúc repo phải nộp
 
 ```text
-K4-L3<A hoặc B>-DAY11-<HoVaTen>-<MSSV>-Guardrails-HITL-Responsible-AI/
+K5-L3<A hoặc B>-DAY11-<HoVaTen>-<MSSV>-Guardrails-HITL-Responsible-AI/
 ├── README.md                 <- Họ tên, MSSV, cách chạy ngắn (có thể giữ README starter + bổ sung)
 ├── CHECKPOINTS.md
 ├── SUBMISSION.md
